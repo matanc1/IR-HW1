@@ -1,0 +1,2 @@
+Highest: ['the', 'of', 'to', 'a', 'and', 'in', 'said', 'for', 'that', 'was']
+Lowest: ['fieldgrade', 'australiavietnam', 'radelats', 'detered', 'nspca', 'toralf', 'metveit', '283031', 'weekwas', 'mothibe']
